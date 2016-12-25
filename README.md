@@ -10,4 +10,4 @@ Some credit is also due to others from which I sourced samples.
 - Jakob Thiessen - MITSUBISHI IMIEV electric car REAR WINDOW WIPERS ext (Sound Effects 2013)
 - Jakob Thiessen - walking thru forest 3 (Sound Effects 2013)
 
-Finally, any samples or stems over 100mb cannot be uploaded to GitHub, so I have been forced to exclude them. Please refer to the .gitignore file for specifics. However, feel free to request these from me.
+Samples or stems over 100mb cannot be uploaded to GitHub -> .gitignore file for specifics.
